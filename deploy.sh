@@ -1,0 +1,1 @@
+npx wrangler deploy --name githuq-com --compatibility-date 2024-09-27 index.ts

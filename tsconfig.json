@@ -1,0 +1,13 @@
+{
+  "include": ["*.ts"],
+  "files": ["custom.d.ts"],
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "lib": ["es2022", "DOM"],
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "declaration": true
+  }
+}
